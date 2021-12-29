@@ -1,4 +1,4 @@
-# Air Pollution
+# Air Quality Tracker and Climate Change
 
 This project is based on - [Create a Python app using Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask). Please read same for more information.
 
